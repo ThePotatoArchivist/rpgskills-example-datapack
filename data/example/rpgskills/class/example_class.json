@@ -1,0 +1,8 @@
+{
+  "name": "Example",
+  "icon": "minecraft:stone",
+  "description": "Stone",
+  "starting_levels": {
+    "example:example_skill": 1
+  }
+}

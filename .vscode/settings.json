@@ -1,0 +1,29 @@
+{
+    "json.schemaDownload.enable": true,
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/data/*/rpgskills/class/**/*.json"
+            ],
+            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/class.json"
+        },
+        {
+            "fileMatch": [
+                "/data/*/rpgskills/job/**/*.json"
+            ],
+            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/job.json"
+        },
+        {
+            "fileMatch": [
+                "/data/*/rpgskills/skill/**/*.json"
+            ],
+            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/skill.json"
+        },
+        {
+            "fileMatch": [
+                "/data/*/rpgskills/lockgroup/**/*.json"
+            ],
+            "url": "https://raw.githubusercontent.com/ThePotatoArchivist/RPGSkills/refs/heads/main/assets/schemas/lock_group.json"
+        }
+    ]
+}

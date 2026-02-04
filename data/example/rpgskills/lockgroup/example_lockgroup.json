@@ -1,0 +1,9 @@
+{
+  "requirements": {
+    "example:example_skill": 1
+  },
+  "items": [
+    "minecraft:stone",
+    "#minecraft:buttons"
+  ]
+}

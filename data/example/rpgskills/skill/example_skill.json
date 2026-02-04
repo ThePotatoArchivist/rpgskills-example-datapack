@@ -1,0 +1,17 @@
+{
+  "name": "Example Skill",
+  "icon": "minecraft:potato",
+  "levels": {
+    "1": {
+      "attributes": {
+        "minecraft:generic.armor": 1,
+        "minecraft:generic.attack_speed": {"amount": 0.05, "operation": "add_multiplied_base"}
+      }
+    },
+    "3": {
+      "jobs": [
+        "example:example_job"
+      ]
+    }
+  }
+}

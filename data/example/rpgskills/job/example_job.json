@@ -1,0 +1,21 @@
+{
+  "name": "Example Job",
+  "cooldown_ticks": 6000,
+  "reward_points": 20,
+  "tasks": [
+    {
+      "id": "eat_pork",
+      "description": "Eat porkchop",
+      "count": 4,
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:porkchop",
+            "minecraft:cooked_porkchop"
+          ]
+        }
+      }
+    }
+  ]
+}

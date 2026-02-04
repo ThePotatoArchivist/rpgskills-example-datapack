@@ -1,0 +1,3 @@
+#!/bin/sh
+mkdir -p dist
+zip -r dist/rpg-server.zip pack.mcmeta data/

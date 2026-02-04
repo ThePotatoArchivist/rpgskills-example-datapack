@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Data for the RPG Server",
+    "pack_format": 48
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "combat_roll",
+        "path": "enchantment/.*\\.json"
+      }
+    ]
+  }
+}

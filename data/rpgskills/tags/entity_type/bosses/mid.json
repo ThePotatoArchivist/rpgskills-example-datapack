@@ -1,0 +1,14 @@
+{
+  "values": [
+    "cataclysm:the_leviathan",
+    "cataclysm:ancient_remnant",
+    "cataclysm:the_harbinger",
+    "cataclysm:maledictus",
+    "cataclysm:scylla",
+    "fdbosses:chesed",
+    "fdbosses:malkuth",
+    "fdbosses:geburah"
+  ],
+
+  "replace": true
+}
